@@ -1,0 +1,18 @@
+body{
+    background-color: purple;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#num{
+    position: absolute;
+    top:200px;
+    left:740px;
+    color: white;
+    font-size: 72px;
+}
+.btn{
+    width:100px;
+    height:100px;
+}
